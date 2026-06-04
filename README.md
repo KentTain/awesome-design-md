@@ -1,6 +1,7 @@
-<a href="https://github.com/VoltAgent/voltagent">
-     <img width="1500" height="801" alt="claude-skills" src="https://github.com/user-attachments/assets/d012a0d2-cec3-4630-ba5e-acc339dbe6cf" />
+<a href="https://kenttain.github.io/awesome-design-md/">
+     <img width="2240" height="1147" alt="image" src="https://github.com/user-attachments/assets/d91128f8-a943-4738-bdee-a3ffed877ad7" />
 </a>
+
 
 
 <br/>
